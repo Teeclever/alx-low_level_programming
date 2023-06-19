@@ -8,6 +8,7 @@
 int main(void)
 {
 	int tee;
+
 	for (tee = 48; tee < 58; tee++)
 {
 	putchar(tee);
