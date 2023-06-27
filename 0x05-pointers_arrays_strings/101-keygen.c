@@ -20,7 +20,7 @@ for (i = 0; i < 100; i++)
 pass[i] = rand() % 78;
 sum += (pass[i] + '0');
 putchar(pass[i] + '0');
-If ((2772 - sum) - '0' < 78)
+If((2772 - sum) - '0' < 78)
 {
 n = 2772 - sum - '0';
 sum += n;
