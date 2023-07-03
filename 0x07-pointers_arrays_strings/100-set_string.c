@@ -1,5 +1,3 @@
-8-print_diagsums.c
-
 #include "main.h"
 #include <stdio.h>
 /**
