@@ -3,7 +3,7 @@
 
 /**
  * listint_len - A program that returns the number of node
- * @h: a pointer  
+ * @h: a pointer
  *
  * Return: return a number of nodes
  */
