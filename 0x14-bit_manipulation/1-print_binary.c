@@ -1,9 +1,8 @@
 #include "main.h"
 
-/*
- * print_binary - A function that print binarry
- * @n: passes in an integer
- * Return: void
+/**
+ * print_binary - A function that print binary decimal
+ * @n: number to in an integer
  */
 
 void  print_binary(unsigned long int n)
