@@ -4,7 +4,7 @@
  * hash_table_set - A function that adds  an element to the hash table
  * @ht: hash table to add or update the key to
  * @key: key to add
- * @value: value to store for key 
+ * @value: value to store for key
  * Return: 1 if success, 0 if fail
  */
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
