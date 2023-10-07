@@ -1,7 +1,7 @@
 #include "hash_tables.h"
 
 /**
- * hash_djb2 - Hash function that uses the djb2 algorithm.
+ * hash_djb2 - A function that uses the djb2 algorithm.
  * @str: String to be hashed.
  *
  * Return: The hashed value.
