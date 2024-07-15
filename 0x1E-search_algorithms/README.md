@@ -3,10 +3,10 @@ Resources
 Read or watch :-
 
     Search algorithm
-    Space complexity (1)
+    Space complexiy
 
 Learning Objectives
-General
+General knowledge
 
     What is a search algorithm
     What is a linear search
